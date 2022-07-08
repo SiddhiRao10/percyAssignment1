@@ -1,5 +1,4 @@
 package percy.test;
-
 import io.percy.selenium.Percy;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
